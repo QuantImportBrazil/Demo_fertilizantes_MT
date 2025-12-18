@@ -19,7 +19,7 @@
 ---  
   
   
-![Gráfico de Previsão](3104.png) 
+![Gráfico de Previsão](MT_Outros%20cloretos%20de%20potássio.png) 
   
 ---
 
